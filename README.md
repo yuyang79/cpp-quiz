@@ -1,2 +1,2 @@
 # cpp-quiz
-C++ challenges
+C++ challenges.
